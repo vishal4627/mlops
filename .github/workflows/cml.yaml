@@ -1,4 +1,4 @@
-name: model-wine-quality
+name: train-my-model
  
 on: [push]
  
